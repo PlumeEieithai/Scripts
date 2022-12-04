@@ -1,0 +1,2 @@
+local osdate = script.parent
+osdate.text = (os.date ("%A, %m %B %Y"))
